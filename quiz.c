@@ -147,7 +147,7 @@ void addque(char fname[20]) {
 	printf("Enter index:\n");
 	scanf("%d",&b.index);
 
-	printf("enter que n option:\n");
+	printf("enter question and options:\n");
 	val=getchar();
 	while(((val=getchar()) != '\n') && (val != EOF)) {
 		b.que[i]=val;
