@@ -1,5 +1,3 @@
-This is the online quiz project.
-the project is not yet completed.
-I just did  Writing the questions to file and read it from the file to display on terminal.
-The scores are stored in a file and display on terminal.
+This is the quiz game project.
+You can choose to play quiz in 1. c programming 2.c++ programming 3.java 4. data structure.
 
