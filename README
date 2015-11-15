@@ -1,0 +1,10 @@
+	Title of Project : QUIZ GAME
+
+	Name:Shradha Atmaram Yewale
+	MIS ID: 141508013
+
+	Description:
+			This is the quiz game project.The project is implemented by using file handling.User can have choise to select to play the quiz in 4 different types of programming language (C,C++,JAVA,DSA). The questions releted to each programming language is stored in separate files and retrive, when user start to play the quiz. While playing the quiz the current score of the user is displayed. If user give the wrong answer of question then after giving the answer the correct answer is displayed.User can view the scores achieved in different sections(programming language).again the scores achieved by user is stored in different files.and retrive from the files when user request to view the scores.
+			User can add the questions in any of the 4 programming languages.while adding the new questions user need to authenticate by entering the correct password.if password matches the "Add Question Wizard" appears.after entering in that section user can also able to change the password needed while adding question.user can add the questions.Again the newly added qusetions stored in respective files.  
+	
+  				
